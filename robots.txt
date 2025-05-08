@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /fsoco-dataset/contact_form_thanks/
+Disallow: /fsoco-dataset/contribution_form_thanks/
+Disallow: /fsoco-dataset/imprint/
+Disallow: /fsoco-dataset/privacy_policy/
+Disallow: /fsoco-dataset/assets/
+Disallow: /fsoco-dataset/stats_for_nerds
+Disallow: /fsoco-dataset/tools/image_similarity_score
+Disallow: /fsoco-dataset/labeling_guidelines/
